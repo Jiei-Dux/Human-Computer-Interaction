@@ -1,7 +1,7 @@
 // ========== // ========== // ========== // ========== // ========== //
 //                                                                    //
 //                      Java Swing GUI Program                        //
-//                  EventDriven_Doctor - EventDriven.java                //
+//                  EventDriven_Doctor - EventDriven.java             //
 //                    Human Computer Interaction                      //
 //                                                                    //
 // ========== // ========== // ========== // ========== // ========== //
